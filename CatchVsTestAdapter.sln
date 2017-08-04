@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchVsTestAdapter", "CatchVsTestAdapter\CatchVsTestAdapter.csproj", "{FA8BBFA4-A1E1-462B-AD8F-55502555F587}"
 EndProject
 Global
@@ -27,20 +29,6 @@ Global
 		{FA8BBFA4-A1E1-462B-AD8F-55502555F587}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{FA8BBFA4-A1E1-462B-AD8F-55502555F587}.Release|Win32.ActiveCfg = Release|Any CPU
 		{FA8BBFA4-A1E1-462B-AD8F-55502555F587}.Release|x86.ActiveCfg = Release|Any CPU
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Debug|Mixed Platforms.Build.0 = Debug|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Debug|Win32.ActiveCfg = Debug|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Debug|Win32.Build.0 = Debug|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Debug|x86.ActiveCfg = Debug|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Debug|x86.Build.0 = Debug|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Release|Any CPU.ActiveCfg = Release|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Release|Mixed Platforms.ActiveCfg = Release|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Release|Mixed Platforms.Build.0 = Release|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Release|Win32.ActiveCfg = Release|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Release|Win32.Build.0 = Release|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Release|x86.ActiveCfg = Release|Win32
-		{5D574261-42EC-45F1-91B8-5BB81A134DDA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
